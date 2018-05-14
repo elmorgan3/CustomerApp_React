@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "dni": "1000000",
+      "name": "MORGAN QUINTANA",
+      "age": 252,
+      "id": "1000000",
+      "isDeleteAllow": false
+    },
+    {
+      "name": "MARTA",
+      "dni": "123456789",
+      "age": 23,
+      "id": "0U4oVbE"
+    },
+    {
+      "id": "DnuY8jh",
+      "dni": "6456432",
+      "name": "LELY ",
+      "age": 3
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
